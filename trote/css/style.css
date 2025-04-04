@@ -108,3 +108,47 @@ table {
 .importante {
   background-color: lightgoldenrodyellow;
 }
+
+.footerfix {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  background-color: #3ead58;
+  color: white;
+  font-size: medium;
+  padding-top: 10px;
+  position: fixed;
+  height: 85px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+}
+
+.footerfix img {
+  width: 30px;
+  height: auto;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-bottom: -10px;
+}
+
+footer {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  background-color: #3ead58;
+  color: white;
+  font-size: medium;
+}
+
+.footer {
+  padding-top: 10px;
+  height: 85px;
+}
+
+.footer img {
+  width: 30px;
+  height: auto;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-bottom: -10px;
+}
