@@ -118,5 +118,7 @@ function calcular() {
   soma += 0.5 * Number(macarrao);
   let oleo = document.getElementById("oleo").value;
   soma += Number(oleo);
+  let caracterizacao = document.getElementById("caracterizacao").value;
+  soma += Number(caracterizacao);
   document.getElementById("soma").innerHTML = soma.toFixed(2);
 }

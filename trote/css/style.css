@@ -109,6 +109,15 @@ table {
   background-color: lightgoldenrodyellow;
 }
 
+.alinhamento {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.alinhamento input {
+  float: right;
+}
+
 .footerfix {
   border-top: 2px solid black;
   border-bottom: 2px solid black;
